@@ -1,5 +1,10 @@
 public class Test {
     public Test() {
-        System.out.printf("SR GOAT");
+
+        for(int i = 0; i <10; i++){
+            System.out.println("Eres gay");
+        }
+
+
     }
 }
