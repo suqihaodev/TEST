@@ -1,5 +1,5 @@
 public class Test {
     public Test() {
-        System.out.printf("SuMadafakinGoat");
+        System.out.printf("SR GOAT");
     }
 }
