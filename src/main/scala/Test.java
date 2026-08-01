@@ -1,5 +1,8 @@
 public class Test {
     public Test() {
-        System.out.printf("SR GOAT");
+        int i = 0;
+        while (i < 10) {
+            System.out.println(i++);
+        }
     }
 }
